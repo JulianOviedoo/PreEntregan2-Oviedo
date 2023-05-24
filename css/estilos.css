@@ -4,17 +4,17 @@ h1 {
 }
     
 header {
-    background-color: chocolate;
+    background-color: cyan;
 }
 
 footer{
     background-color: brown;
-    height: 300px;
-    margin-top: 10%;
+    height: 100%;
+    margin-top: 20%;
 }
 
 body{
-    background-image: url(https://i.pinimg.com/originals/cd/d9/bd/cdd9bd825962df5bdb0b96f130e5beec.jpg);
+    background-image: url(https://cdn.aarp.net/content/dam/aarp/entertainment/television/2017/07/1140-world-cup-trophy-ball-trivia-esp.imgcache.rev.web.900.517.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -89,3 +89,21 @@ legend{
 iframe{
     margin-top: 40px;
 } 
+
+.carta1{
+    margin-top: 110px;
+    background-color: yellow;
+    text-align: center;
+    
+}
+
+.carta2{
+    margin-top: 100px;
+    background-color: chartreuse;
+}
+
+.carta3{
+    margin-top: 100px;
+    background-color: aqua;
+    text-align: center;
+}
